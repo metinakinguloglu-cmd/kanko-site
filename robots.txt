@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://metinakinguloglu-cmd.github.io/kanko-site/sitemap.xml
